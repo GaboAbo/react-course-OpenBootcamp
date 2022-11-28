@@ -1,0 +1,3 @@
+container: componentes de orden superior, reenderizan a otros componentes. Manejan la logica y datos.
+models: especificar los tipos de datos para trabajar.
+hooks: funciones que simplifican acciones.
